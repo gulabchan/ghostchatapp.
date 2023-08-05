@@ -1,4 +1,4 @@
-# Snappy - Chat Application 
+Chat-App 
 Snappy is chat application build with the power of MERN Stack.
 
 
